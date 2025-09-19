@@ -273,11 +273,10 @@ section {
   justify-content: center;
   align-items: center;
   background-color: var(--main-color);
-  height: 600px;
-  border-radius: 2rem;
+  height: 550px;
+  border-radius: 50%;
   cursor: pointer;
-  border: 5px solid transparent;
-  transition: 0.4s ease-in-out;
+ 
 }
 .service-info {
   display: flex;
